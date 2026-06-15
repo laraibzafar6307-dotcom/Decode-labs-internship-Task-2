@@ -1,95 +1,94 @@
 # Decode-labs-internship-Task-2
 This PR delivers the complete Cyberpunk-Corporate visual identity for NovaTech AI under Task 2 (The Creative Visionary) for the DecodeLabs internship
 
-✨ EliteVoyage AI – Luxury Travel Consultant
-Transforming Travel Planning Through Prompt Engineering
+# ✨ EliteVoyage AI – Luxury Travel Consultant
 
-📖 About the Project
-EliteVoyage AI is a Luxury Travel Consultant chatbot developed using System Prompt Engineering and Few Shot Prompting techniques. The project demonstrates how carefully designed prompts can control AI behavior, enforce business rules, and create a consistent customer experience.
+## 📖 About the Project
 
-The assistant specializes in luxury travel recommendations and responds professionally while staying within its defined role.
+EliteVoyage AI is a Luxury Travel Consultant chatbot developed using System Prompt Engineering and Few Shot Prompting techniques. This project demonstrates how AI behavior can be controlled through carefully designed prompts while maintaining professional customer interactions and business rules.
 
-🎯 Project Objectives
-✔ Build an AI powered Luxury Travel Consultant
-✔ Apply System Prompt Engineering to define AI behavior
-✔ Use Few Shot Prompting to improve response quality
-✔ Enforce business rules consistently
-✔ Deliver professional and travel focused conversations
+## 🎯 Objectives
 
-🚀 Key Features
-🌍 Luxury destination recommendations
-🏨 Premium hotel suggestions
-✈️ First class and business class flight recommendations
-🎁 Exclusive travel experiences and activities
-💰 Smart discount handling for budget conscious customers
-🛡️ Competitor discussion restrictions
-🎯 Travel only conversation management
-🧠 Prompt Engineering Concepts Used
+- Build an AI powered Luxury Travel Consultant
+- Apply System Prompt Engineering techniques
+- Use Few Shot Prompting for improved responses
+- Enforce predefined business rules
+- Deliver consistent and professional interactions
 
-System Prompt Engineering
+## 🚀 Features
 
-The AI follows a predefined system prompt that controls:
-• Tone and professionalism
-• Travel focused expertise
-• Business rules
-• Response boundaries
+- Luxury destination recommendations
+- Premium hotel suggestions
+- First class and business class flight recommendations
+- Exclusive travel experiences
+- Budget based discount handling
+- Competitor discussion restrictions
+- Travel focused conversation management
 
-Few Shot Prompting
+## 🧠 Prompt Engineering Techniques
 
-Multiple examples were provided to teach the AI how to:
-• Recommend luxury travel packages
-• Handle pricing concerns
-• Avoid competitor discussions
-• Redirect unrelated questions
+### System Prompt Engineering
 
-📋 Test Cases
+The AI follows a predefined system prompt to:
 
-Test Case 1
+- Maintain a professional and friendly tone
+- Recommend luxury travel services
+- Follow business rules
+- Stay within its assigned role
 
-User: Plan a luxury trip to Dubai.
-Result: The AI suggested luxury hotels, premium flights, and exclusive experiences.
+### Few Shot Prompting
 
-Test Case 2
+Example conversations were provided to teach the AI how to:
 
-User: Your packages are expensive.
-Result: The AI offered a promotional discount while maintaining a premium travel experience.
+- Recommend luxury travel packages
+- Handle pricing concerns
+- Avoid competitor discussions
+- Redirect unrelated questions
 
-Test Case 3
+## 📋 Test Cases
 
-User: Which competitor is better than you?
-Result: The AI politely refused to discuss competitors.
+### Test Case 1
 
-Test Case 4
+**User:** Plan a luxury trip to Dubai.
 
-User: Tell me about cricket.
-Result: The AI redirected the conversation back to travel related topics.
+**Result:** The AI suggested luxury hotels, premium flights, and exclusive travel experiences.
 
-🛠️ Technologies Used
+### Test Case 2
 
-• ChatGPT
-• Prompt Engineering
-• System Prompt Design
-• Few Shot Prompting
-• Natural Language Processing (NLP)
-• Generative AI
+**User:** Your packages are expensive.
 
-🎓 Skills Gained
+**Result:** The AI offered a promotional discount according to the defined rules.
+
+### Test Case 3
+
+**User:** Which competitor is better than you?
+
+**Result:** The AI politely refused to discuss competitors.
+
+### Test Case 4
+
+**User:** Tell me about cricket.
+
+**Result:** The AI redirected the conversation back to travel related topics.
+
+## 🛠 Technologies Used
+
+- ChatGPT
+- Prompt Engineering
+- System Prompt Design
+- Few Shot Prompting
+- Natural Language Processing (NLP)
+- Generative AI
+
+## 🎓 Learning Outcomes
 
 Through this project, I learned:
-• System Prompt Engineering
-• Few Shot Prompting
-• AI Behavior Control
-• Conversational AI Design
-• Business Rule Enforcement
-• Prompt Optimization
 
-📈 Project Outcome
+- System Prompt Engineering
+- Few Shot Prompting
+- AI Behavior Control
+- Conversational AI Design
+- Business Rule Enforcement
+- Prompt Optimization
 
-This project successfully demonstrates how Prompt Engineering techniques can guide AI systems to follow specific business requirements while maintaining consistent, high quality interactions with users.
-
-👩‍💻 Author
-
-Laraib Zafar
-
-AI Internship Project
-Passionate about Artificial Intelligence, Prompt Engineering, and building practical AI solutions.
+## 📈 Project Outcome
