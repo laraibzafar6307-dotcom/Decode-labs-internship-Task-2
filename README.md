@@ -92,3 +92,11 @@ Through this project, I learned:
 - Prompt Optimization
 
 ## 📈 Project Outcome
+
+This project demonstrates how Prompt Engineering techniques can be used to control AI behavior, enforce business requirements, and create a consistent user experience.
+
+## 👩‍💻 Author
+
+**Laraib Zafar**
+
+AI Internship Project
